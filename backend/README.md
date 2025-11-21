@@ -8,8 +8,6 @@ This is the RESTful API for the Todo application built with Go (Gin) and Postgre
 
 http://localhost:3000/api
 
-pgsql
-Copy code
 
 ---
 
